@@ -77,7 +77,7 @@ python app.py
 │── /models
 │   ├── strawberry_model.h5  # Trained CNN Model
 │── app.py              # Flask API
-│── train_model.ipynb   # Model Training Notebook
+│── train_model.py      # Model Training
 │── requirements.txt    # Python Dependencies
 │── README.md           # Project Documentation
 ```

@@ -1,7 +1,7 @@
 # **🍓 Strawberry Disease Detection**  
 A deep learning-powered **web application** to detect **strawberry leaf diseases** using **image classification**.  
 
-![Sample Detection](static/sample.png)  
+![Sample Detection](static/sample.jpg)  
 
 ---
 
